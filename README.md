@@ -1,6 +1,6 @@
 # RNCP-C, Ma boite de souhaits
 
-![Mes souhaits](https://github.com/yvan-sraka/EVAL-RNCP-C/blob/master/images/Magic-Lamp.png)
+![Mes souhaits](https://github.com/thamoui/Mes-souhaits-RNCP-/blob/master/images/Magic-Lamp.png)
 
 ### Online Version
 >S'il vous plaît appuyer sur le lien : [http://www.souhaits.loveslife.biz/](http://www.souhaits.loveslife.biz/)
